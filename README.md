@@ -2,6 +2,7 @@
 
 A powerful **Django web application** that transforms raw, simple prompts into **well-structured, high-quality prompts** using advanced **rule-based prompt engineering techniques**. No external API calls are required—everything runs **locally**!
 
+![image alt](https://github.com/DATTA1804/Make-ai-agents/blob/fd73b52edc25b3fff5583a0b1881c33bb35791f0/Screenshot%202025-11-14%20152625.png)
 ---
 
 ## 🎯 Features
